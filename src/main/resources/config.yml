@@ -25,7 +25,7 @@ compatibilityMode: disable
 forceMultiVersion: false
 
 # Enable this if you have other plugins that are overriding the scoreboard (requires server restart)
-forceLegacy: false
+forceLegacy: true
 
 # Any changes done to the storage configuration require a server restart
 storage:
